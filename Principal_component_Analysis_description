@@ -1,0 +1,27 @@
+# Machine_Learning
+
+
+Principal Component Analysis (PCA) in Python
+
+Introduction
+
+Principal Component Analysis (PCA) is a linear dimensionality reduction technique that can be utilized for extracting 
+information from a high-dimensional space by projecting it into a lower-dimensional sub-space.
+It tries to preserve the essential parts that have more variation of the data and remove the non-essential parts with fewer variation.
+
+Dimensions are nothing but features that represent the data. For example, A 28 X 28 image has 784 picture elements (pixels) 
+that are the dimensions or features which together represent that image.
+
+One important thing to note about PCA is that it is an Unsupervised dimensionality reduction technique, 
+you can cluster the similar data points based on the feature correlation between them without any supervision (or labels), 
+and you will learn how to achieve this practically using Python .
+
+According to Wikipedia, PCA is a statistical procedure that uses an orthogonal transformation to convert a set of observations 
+of possibly correlated variables (entities each of which takes on various numerical values)
+into a set of values of linearly uncorrelated variables called principal components.
+
+Note: Features, Dimensions, and Variables are all referring to the same thing. You will find them being used interchangeably.
+
+
+
+Source: Data Camp
