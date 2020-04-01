@@ -1,0 +1,14 @@
+# Machine_Learning
+Types Of operations in the File.
+
+Creating DataFrames¶
+Create a DataFrame of random numbers
+Create a sample DataFrame with datetime
+MultiIndexing
+Creating an empty Data Frame
+Appending a new row to Data Frame
+Appending a row by a single column value
+Appending a row, given list of values
+Appending a row given a dictionary
+Adding a column
+List DataFrame column names
