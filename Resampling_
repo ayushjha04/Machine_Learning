@@ -1,0 +1,16 @@
+# Machine_Learning
+
+Resampling methods are processes of repeatedly drawing samples from a data set and refitting a given model on each sample 
+with the goal of learning more about the fitted model. Resampling methods can be expensive since they require repeatedly 
+performing the same statistical methods on N different subsets of the data.
+
+Resampling methods refit a model of interest to samples formed from the training set,
+in order to obtain additional information about the fitted model. For example, they provide estimates of test-set prediction error,
+and the standard deviation and bias of our parameter estimates.
+
+Types of Tecniques Demonstrated are:
+
+1) Resampling on the basis of train_test_split
+2) Resampling on the basis of k-fold Validation
+3) Resampling on the basis of (Leave One Out ) variation of k-fold
+4) Resampling on the basis of Repeated Random Test-Train Splits
